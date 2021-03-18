@@ -1,0 +1,13 @@
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.exe
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.deps.json
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.runtimeconfig.json
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.runtimeconfig.dev.json
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.dll
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.pdb
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.csprojAssemblyReference.cache
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.AssemblyInfoInputs.cache
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.AssemblyInfo.cs
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.csproj.CoreCompileInputs.cache
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.dll
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.pdb
+C:\Users\Рашид\Desktop\nyss\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.genruntimeconfig.cache
